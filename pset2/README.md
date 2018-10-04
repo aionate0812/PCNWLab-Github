@@ -158,9 +158,9 @@ Insert about me
 
 ---
 ### Alexander Onate
-<img src='' width='150'>
+<img src='image/Alex.png' width='150'>
 
-Insert about me
+I love podcasts and heavy metal
 
 ---
 ### Abdelwahab Oufkir
